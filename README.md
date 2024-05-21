@@ -2,6 +2,7 @@
 <!--<h3 align="center">A passionate cybersecurity Analyst </h3>-->
 
 ###
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="15" />
@@ -38,12 +39,9 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 - 🔭 I’m currently working on this page
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning **cybersecurity**
 
-**SwayanBasu/swayanbasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**a ✨ _special_ ✨ repository because its `
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
